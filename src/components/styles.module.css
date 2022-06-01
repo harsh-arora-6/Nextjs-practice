@@ -1,0 +1,5 @@
+.body {
+  color: red;
+}
+/* we can't write pure elements as then they would be global.
+   Also global css can only be imported in _app.jsx */
